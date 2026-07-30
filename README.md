@@ -75,23 +75,23 @@ It provides real-time monitoring and analytics of your Windows device, including
 
 <p align="center">
 
-<img src="C:\Users\ankit\OneDrive\New folder\Documents\Pictures\Screenshots\Screenshot 2026-07-31 021226.png" width="47%">
+<img src="screenshots/dashboard.png" width="47%">
 
-<img src="C:\Users\ankit\OneDrive\New folder\Documents\Pictures\Screenshots\Screenshot 2026-07-31 021307.png" width="47%">
-
-</p>
-
-<p align="center">
-
-<img src="C:\Users\ankit\OneDrive\New folder\Documents\Pictures\Screenshots\Screenshot 2026-07-31 021333.png" width="47%">
-
-<img src="C:\Users\ankit\OneDrive\New folder\Documents\Pictures\Screenshots\Screenshot 2026-07-31 021400.png" width="47%">
+<img src="screenshots/storageAnalyzer.png" width="70%">
 
 </p>
 
 <p align="center">
 
-<img src="C:\Users\ankit\OneDrive\New folder\Documents\Pictures\Screenshots\Screenshot 2026-07-31 021410.png" width="70%">
+<img src="screenshots/devicesInfo.png" width="47%">
+
+<img src="screenshots/chargingHabbit.png" width="47%">
+
+</p>
+
+<p align="center">
+<img src="screenshots/pdf.png" width="47%">
+
 
 </p>
 

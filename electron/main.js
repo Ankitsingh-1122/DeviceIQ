@@ -125,7 +125,7 @@ app.whenReady().then(async () => {
 
   registerIpcHandlers({ getDeviceId: () => currentDeviceId });
 
-  systemInfo.startCpuWorker(1000);
+  systemInfo.startCpuWorker();
 
   createWindow();
   createTray();
